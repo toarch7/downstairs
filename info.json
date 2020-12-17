@@ -1,8 +1,1 @@
-{
-	"GameBuild": 93,
-	"GameVersion": "1.9 pre-5",
-	
-	"Changelog": "Much important stuff#- yeah#- that's it"
-	
-	"DailiesEnabled": true
-}
+{"GameBuild": 93, "GameVersion": "1.9 pre-5", "Changelog": "Much important stuff#- yeah#- that's it" "DailiesEnabled": true}
