@@ -1,8 +1,13 @@
 {
-	"GameBuild": 93,
-	"GameVersion": "1.9 pre-5",
+	"GameBuild": 94,
+	"GameVersion": "GMS2 Test",
 	
-	"Changelog": "Much important stuff#- yeah#- that's it",
+	"Changelog": "Much important stuff and fixes\n- yeah\n- that's it",
 	
-	"DailiesEnabled": true
+	"DailiesEnabled": true,
+	
+	"downloads": {
+		"pc": "https://mega.nz/file/SV5m2SgJ#iwMM32CUHHnOYYPHnL1taagYXiNNuXqWd1yVMcWdL2Y",
+		"android": "https://mega.nz/file/KQxgWSKZ#D87z3PcPKoIXsTgrj8-v00oJhQEzf1qK_6pJ8bhSPxY"
+	}
 }
