@@ -1,13 +1,13 @@
 {
-	"GameBuild": 95,
+	"GameBuild": 96,
 	"GameVersion": "GMS2 Test",
 	
-	"Changelog": "Much important stuff and fixes",
+	"Changelog": "Scripting and minor fixes",
 	
 	"DailiesEnabled": true,
 	
 	"downloads": {
-		"windows": "https://mega.nz/file/jU4WATCJ#TeQRL5tbejmYUpBezgLO6an_W-2G8kPZ-2QkH-GLOnk",
-		"android": "https://mega.nz/file/XVwA1JwL#D5X9VtgNHPVRE5_Y4n22WpXKjdA0RYud1fcEnu9nJSA"
+		"windows": "https://mega.nz/file/zRokxCAQ#yYxpD4Pbjkt1hGs_UYUgqvU6e2umvOr2DFh2LbI80SA",
+		"android": "https://mega.nz/file/7BwynCLb#VmUCJ4bjB2Ne5M8yyVcgIqGCNZrjpb1eMKsXxEysMa0"
 	}
 }
