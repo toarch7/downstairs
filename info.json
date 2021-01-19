@@ -1,13 +1,13 @@
 {
-	"GameBuild": 96,
-	"GameVersion": "GMS2 Test",
+	"GameBuild": 97,
+	"GameVersion": "beta-6",
 	
-	"Changelog": "Scripting and minor fixes",
+	"Changelog": "Downstairs pre-6 (Beta build #97)\n- Mines generation overhaul. Now it looks more natural\nIt can be one big cave, a couple of smaller regions connected with carts and a veins of radioactive crystal clusters\nSince the floor is bigger, number of sub-areas was shorten by two (3 floors in short mode, 5 in classic)\n(May lags on some devices)\n- Minimap is now aviable for mobile controls\n- Big Mole, Phantom and Illusioner buffs\n- New system of crystal radiation\n- Menu gradient now displays correct on most devices (not tested actually)\n- Hardmode bosses now are elites\n- Some elite bosses has buffed patterns and attacks\n- Cycles now separate to hardmode\n- Some modloader api changes (still WIP)\n- Balance changes\n- Bugfixes\n- Custom error handler\n- Better update notifier",
 	
 	"DailiesEnabled": true,
 	
 	"downloads": {
-		"windows": "https://mega.nz/file/zRokxCAQ#yYxpD4Pbjkt1hGs_UYUgqvU6e2umvOr2DFh2LbI80SA",
-		"android": "https://mega.nz/file/7BwynCLb#VmUCJ4bjB2Ne5M8yyVcgIqGCNZrjpb1eMKsXxEysMa0"
+		"windows": "https://mega.nz/file/edwXXABb#7GgMVPjrXRSjjMvTwPZTEGi73akipzjHEiuJCDHCYi4",
+		"android": "https://mega.nz/file/LJ4jVK5J#SyeBaljExq-EvKnJ81012u2qwzK85Q0jrLnZ7gM_pTc"
 	}
 }
