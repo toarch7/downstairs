@@ -1,8 +1,8 @@
 {
-	"GameBuild": 97,
+	"GameBuild": 97.1,
 	"GameVersion": "beta-6",
 	
-	"Changelog": "- Mines generation overhaul. Now it looks more natural\nIt can be one big cave, a couple of smaller regions connected with carts and a veins of radioactive crystal clusters\nSince the floor is bigger, number of sub-areas was shorten by two (3 floors in short mode, 5 in classic)\n(May lags on some devices)\n- Minimap is now aviable for mobile controls\n- Big Mole, Phantom and Illusioner buffs\n- New system of crystal radiation\n- Menu gradient now displays correct on most devices (not tested actually)\n- Hardmode bosses now are elites\n- Some elite bosses has buffed patterns and attacks\n- Cycles now separate to hardmode\n- Some modloader api changes (still WIP)\n- Balance changes\n- Bugfixes\n- Custom error handler\n- Better update notifier",
+	"Changelog": "(b97.1)\n\n- Mines are much smaller. Thanks YoYo games mobile runner.\n- Heavy blade fix\n- Typo fixes\n\n(b97.0)\n\n- Mines generation overhaul. Now it looks more natural\nIt can be one big cave, a couple of smaller regions connected with carts and a veins of radioactive crystal clusters\nSince the floor is bigger, number of sub-areas was shorten by two (3 floors in short mode, 5 in classic)\n(May lags on some devices)\n- Minimap is now aviable for mobile controls\n- Big Mole, Phantom and Illusioner buffs\n- New system of crystal radiation\n- Menu gradient now displays correct on most devices (not tested actually)\n- Hardmode bosses now are elites\n- Some elite bosses has buffed patterns and attacks\n- Cycles now separate to hardmode\n- Some modloader api changes (still WIP)\n- Balance changes\n- Bugfixes\n- Custom error handler\n- Better update notifier",
 	
 	"DailiesEnabled": true,
 	
