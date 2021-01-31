@@ -1,13 +1,13 @@
 {
-	"GameBuild": 98.1,
+	"GameBuild": 98.2,
 	"GameVersion": "beta-6",
 	
-	"Changelog": "\n(b98.1)\n\n- Fixed cart softlock\n- Mobs can not be spawned in crystals\nBetter trapdoor generation\n- Balance changes\n- Other bugfixes\n\n(b97.1)\n\n- Mines are much smaller. Thanks YoYo games mobile runner.\n- Heavy blade fix\n- Typo fixes\n\n(b97.0)\n\n- Mines generation overhaul. Now it looks more natural\nIt can be one big cave, a couple of smaller regions connected with carts, and a veins of radioactive crystal clusters\nSince the floor is bigger, number of sub-areas was shorten by two (3 floors in short mode, 5 in classic)\n(May lags on some devices)\n- Minimap is now aviable for mobile controls\n- Big Mole, Phantom and Illusioner buffs\n- New system of crystal radiation\n- Menu gradient now displays correct on most devices (not tested actually)\n- Hardmode bosses now are elites\n- Some elite bosses has buffed patterns and attacks\n- Cycles now separate to hardmode\n- Some modloader api changes (still WIP)\n- Balance changes\n- Bugfixes\n- Custom error handler\n- Better update notifier\n\n",
+	"Changelog": "\n(b98.2)\n\n-Fixed everyone having 2 perk choice instead of 3\n(b98.1)\n\n- Fixed cart softlock\n- Mobs can not be spawned in crystals\nBetter trapdoor generation\n- Balance changes\n- Other bugfixes\n\n",
 	
 	"DailiesEnabled": true,
 	
 	"downloads": {
-		"windows": "https://mega.nz/file/OBgQGbJD#PXSFSUULNurcQENjTMwniugZuEpbWrVfHH3LTm5clrc",
-		"android": "https://mega.nz/file/eYoyzJhQ#p2oB9Fn_mkBeZYWdqnJwg6pRCsZpVZ37Uk4BC1GZXFo"
+		"windows": "https://mega.nz/file/PYRViA7S#ocJpaCdBrgJeXVQg2tB9dBMk3WVRQsUKteJd-pOQ__g",
+		"android": "https://mega.nz/file/jJRXXSqQ#5GPDolaskgWZpVTKYos7OOwEItq0ZL8m0yxLqAk8aeg"
 	}
 }
