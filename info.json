@@ -1,5 +1,5 @@
 {
-	"GameBuild": 98.2,
+	"GameBuild": 123456789,
 	"GameVersion": "beta-6",
 	
 	"Changelog": "\n(b98.2)\n\n-Fixed everyone having choice of 2 perks (intended to be 3)\n\n(b98.1)\n\n- Fixed cart softlock\n- Mobs can not be spawned in crystals\n- Better trapdoor generation\n- Balance changes\n- Other bugfixes\n\n",
