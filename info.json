@@ -4,10 +4,5 @@
 	
 	"Changelog": "\n(b98.2)\n\n-Fixed everyone having choice of 2 perks (intended to be 3)\n\n(b98.1)\n\n- Fixed cart softlock\n- Mobs can not be spawned in crystals\n- Better trapdoor generation\n- Balance changes\n- Other bugfixes\n\n",
 	
-	"DailiesEnabled": true,
-	
-	"downloads": {
-		"windows": "https://mega.nz/file/HBh1jILS#qqPCODmOxZkWbIEQqhadeSnTn90eSsHBD06xN8p6l4A",
-		"android": "https://mega.nz/file/jJRXXSqQ#5GPDolaskgWZpVTKYos7OOwEItq0ZL8m0yxLqAk8aeg"
-	}
+	"DailiesEnabled": true
 }
