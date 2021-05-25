@@ -2,7 +2,7 @@
 	"GameBuild": 101,
 	"GameVersion": "update-5",
 	
-	"Changelog": "b101\n\n- Bugfixes\n\nb100\n\n- A lot of QoL changes\n- Some boss reworks and buffs\n- Balance changes\n- Mods are back but with scripting support\n- Bug fixes (including Mines soflock)",
+	"Changelog": "\n\nb101\n\n- Bugfixes\n\nb100\n- A lot of QoL changes\n- Some boss reworks and buffs\n- Balance changes\n- Mods are back but with scripting support\n- Bug fixes (including Mines soflock)",
 	
 	"DailiesEnabled": true
 }
