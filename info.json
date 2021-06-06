@@ -1,8 +1,8 @@
 {
-	"GameBuild": 102,
-	"GameVersion": "update-5",
+	"GameBuild": 103,
+	"GameVersion": "upd-5",
 	
-	"Changelog": "\n\nBugfixes\n\n",
+	"Changelog": "\n\n- Necrocity boss rework\n- New ending\n- Few more new enemies in wrath mode\n- Daily ruins are back\n- Balance changes\n- New way to obtain various excaliburs (kill boss without taking damage entire chapter)\n\n",
 	
 	"DailiesEnabled": true
 }
