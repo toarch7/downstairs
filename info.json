@@ -2,7 +2,7 @@
 	"GameBuild": 105,
 	"GameVersion": "upd-5",
 	
-	"Changelog": "- Fixed mad enemy spawn amount per level (was 45+ on wrath 0 in caverns-1, now it's like ~25)\n- Bugfixes\n- Few more new content\n- Made mobile controls less worse\n- Better shop layouts\n- Other minor balance changes\n- Modloader bugfixes",
+	"Changelog": "- Fixed mad enemy spawn amount per level (was 45+ on wrath 0 in caverns-1, now it's like 25)\n- Bugfixes\n- Few more new content\n- Made mobile controls less worse\n- Better shop layouts\n- Other minor balance changes\n- Modloader bugfixes",
 	
 	"DailiesEnabled": true
 }
