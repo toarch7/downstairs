@@ -1,8 +1,8 @@
 {
-	"GameBuild": 107,
+	"GameBuild": 108,
 	"GameVersion": "upd-5",
 	
-	"Changelog": "- Bugfixes\n- Few more content\n- Balance changes\n- Co-op crash fix (mobile)",
+	"Changelog": "(b108)\n-Decreased boss health wrath scale \n-Removed Cursed's permanent damage and armor buffs\n- Big Snail \"softlock\" fix\n(b107)\n- Bugfixes\n- Few more content\n- Balance changes\n- Co-op crash fix (mobile)",
 	
 	"DailiesEnabled": true
 }
