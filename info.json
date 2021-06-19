@@ -1,8 +1,8 @@
 {
-	"GameBuild": 109,
+	"GameBuild": 110,
 	"GameVersion": "upd-5",
 	
-	"Changelog": "(b108 & b109)\n- Fixed crash when opening app for the first time (Android)\n- The Game is now able to work on AndroidTV (don't ask why)\n- Balance changes\n- Decreased boss health wrath scale \n- Removed Cursed's permanent damage and armor buffs\n- Big Snail \"softlock\" fix\n\n(b107)\n- Bugfixes\n- Few more content\n- Balance changes\n- Co-op crash fix (mobile)",
+	"Changelog": "- Balance changes\n- Removed game modes (short & classic), but it stil available in co-op\n- Increased areas by one level\n- Fixed infine shop weapon bug\n- Fixed pulinger dupe\n- New active item",
 	
 	"DailiesEnabled": true
 }
