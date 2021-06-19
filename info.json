@@ -2,7 +2,7 @@
 	"GameBuild": 110,
 	"GameVersion": "upd-5",
 	
-	"Changelog": "- Balance changes\n- Removed gamemodes (short & classic), but they're still available in co-op\n- Increased areas by one level\n- Fixed infine shop weapon bug\n- Fixed pulinger dupe\n- New active item",
+	"Changelog": "- Balance changes\n- Removed gamemodes (short & classic), but they're still available in co-op\n- Increased areas by one level\n- Fixed infinite shop weapon exploit\n- Fixed pulinger dupe\n- New active item",
 	
 	"DailiesEnabled": true
 }
