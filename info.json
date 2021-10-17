@@ -1,8 +1,8 @@
 {
-	"GameBuild": 111,
+	"GameBuild": 112,
 	"GameVersion": "beta-1 upd-6",
 	
-	"Changelog": "Major Downstairs update",
+	"Changelog": "- Fixed ranged weapon Alt. attack\n- Fixed Beast sometime spawning outside of boss arena\n- Unlocks menu, Start button and Minimap now works with gamepad\n-Enemies no longer stuck inside of a shop pedestal\n- Other fixes",
 	
 	"DailiesEnabled": true
 }
