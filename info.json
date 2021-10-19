@@ -1,8 +1,8 @@
 {
-	"GameBuild": 112,
+	"GameBuild": 113,
 	"GameVersion": "beta-1 upd-6",
 	
-	"Changelog": "- Fixed ranged weapon alt. attack\n- Fixed Beast spawn outside of boss arena\n- Unlocks menu, Start button and Minimap now works with gamepad\n- Enemies no longer stuck inside of a shop pedestal\n- Other fixes",
+	"Changelog": "- Made mines more fair\n- Mob spawn changes\n- Made Rival totem appear when 1-4 is reached in under 4 minutes 30 seconds\n- Bug fixes & minor balance changes",
 	
 	"DailiesEnabled": true
 }
