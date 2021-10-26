@@ -1,8 +1,8 @@
 {
-	"GameBuild": 114,
+	"GameBuild": 115,
 	"GameVersion": "beta-1 upd-6",
 	
-	"Changelog": "\n- Hotfix\n\n- Made mines more fair\n- Mob spawn changes\n- Made Rival totem appear when 1-4 is reached in under 4 minutes 30 seconds\n- Bug fixes & minor balance changes",
+	"Changelog": "Important bugfixes and balance changes",
 	
 	"DailiesEnabled": true
 }
