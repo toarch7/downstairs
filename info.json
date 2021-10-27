@@ -1,8 +1,8 @@
 {
-	"GameBuild": 117,
+	"GameBuild": 118,
 	"GameVersion": "beta-1 upd-6",
 	
-	"Changelog": "Important bugfixes and balance changes",
+	"Changelog": "- Bugfixes\n-Better gamepad support\n- Balance changes",
 	
 	"DailiesEnabled": true
 }
