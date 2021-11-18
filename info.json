@@ -2,7 +2,7 @@
 	"GameBuild": 122,
 	"GameVersion": "beta-2 upd-6",
 	
-	"Changelog": "- Bugfixes\n- Minor balance changes\n\n- Made local multiplayer much more stable\n- Added few more unlockables\n- Rebalanced enemies\n- Updated AI for some enemy *species*\n- Added configurable brightness\n- Updated some bosses\n- Fixed Death King softlock *(hopefuly)*\n- Replaced \"Reflex\" perk with \"Hidden Shiv\"\n- Enhanced some weapons\n- Fixed Ifrit's Horn inability to remove perks from pool\n- Fixed various bugs and issues",
+	"Changelog": "- Major Bugfixes\n- Yet, minor balance changes\n\n- Made local multiplayer much more stable\n- Added few more unlockables\n- Rebalanced enemies\n- Updated AI for some enemy *species*\n- Added configurable brightness\n- Updated some bosses\n- Fixed Death King softlock *(hopefuly)*\n- Replaced \"Reflex\" perk with \"Hidden Shiv\"\n- Enhanced some weapons\n- Fixed Ifrit's Horn inability to remove perks from pool\n- Fixed various bugs and issues",
 	
 	"DailiesEnabled": true
 }
