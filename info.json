@@ -1,8 +1,8 @@
 {
-	"GameBuild": 123,
-	"GameVersion": "beta-2 upd-6",
+	"GameBuild": 125,
+	"GameVersion": "beta-4 upd-6",
 	
-	"Changelog": "- Bugfixes\n- More special rooms -\nReturned statues back",
+	"Changelog": "- A lot of changes",
 	
 	"DailiesEnabled": true
 }
