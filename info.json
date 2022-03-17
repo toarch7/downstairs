@@ -1,8 +1,8 @@
 {
-	"GameBuild": 126,
+	"GameBuild": 129,
 	"GameVersion": "beta-4 upd-6",
 	
-	"Changelog": "b125\n- A lot of changes\n\nb126\n- New active item\n- You can change darkness opacity now\n- Rats won't dash if you hit them\n- Changed Skully's physics\n- Walk assist won't avoid anything but walls now\n- Fixed bush collision\n- Fixed pickaxe crash\n- Mini-map now works with \"Less UI\" option\n- Some Beast tweaks\n- Moles won't attack for a second after burring\n- Corrosion's bottle poison now lasts 10 seconds instead of 2 minutes\n- Reward bags won't spawn past caverns\n- Shield now properly works on biting attacks and has extended duration\n- Music now slows down after your death again\n- Ice shards won't home when outside of the level\n- Freeze is now less cruel against the player",
+	"Changelog": "- Mostly bug fixes and QoL changes",
 	
 	"DailiesEnabled": true
 }
