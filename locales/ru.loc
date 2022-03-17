@@ -935,7 +935,7 @@
 	"text.loc.workshop": "Мастерская Всего",
 	"text.loc.darkness": "Глубокая Темнота",
 	"text.loc.wasteland": "Пустошь",
-	"text.loc.suffering": "Страданиях",
+	"text.loc.suffering": "...",
 	
 	"text.hat": "Шапка",
 	"text.weapon": "Оружие",
@@ -1013,7 +1013,8 @@
 	"text.engineer.hat_upgrade": "% улучшено до %",
 	"text.cant_craft": "Я не могу соеденить эти предметы",
 	"text.cant_craft2": "Мне надо два оружия для крафта",
-	"text.lvl_up": "Повышение уровня!#Выберете улучшение",
+	"text.newlevel.perks": "Повышение уровня!",
+	"text.newlevel.evolve": "Развить",
 	"text.lvl_up_coop": "Повышение уровня!#Подождите пока хост выберет#улучшение",
 	"text.curse_up": "Ваше проклятье развилось",
 	"text.humanity": "Вы чувствуете себя человеком",
@@ -1173,7 +1174,7 @@
 	"enemy.kingskeleton.name": "Элитный Скелет",
 	"enemy.skeletondart.name": "Скрытный Скелет",
 	"enemy.skeletall.name": "Скеледылда",
-	"enemy.skelemancersleep.name": "Скелемансер",
+	"enemy.skelemancersleep.name": "Скелемант",
 	"enemy.mirrored.name": "Отражение",
 	"enemy.caster.name": "Заклинатель",
 	"enemy.skulledslime.name": "Черепованный слизень",
@@ -1373,9 +1374,9 @@
 	
 	"text.unlock_action.ending1": "%, познать \"Судьбу I\"",
 	"text.unlock_action.ending2": "%, познать \"Судьбу II\"",
-	"text.unlock_action.wrath1": "%, достичь Гнев 1",
-	"text.unlock_action.wrath3": "%, достичь Гнев 3",
-	"text.unlock_action.wrath6": "%, достичь Гнев 6",
+	"text.unlock_action.wrath1": "%, достичь Нагрузка x1",
+	"text.unlock_action.wrath3": "%, достичь Нагрузка x3",
+	"text.unlock_action.wrath6": "%, достичь Нагрузка x6",
 	"text.unlock_action.core": "%, расщепиться",
 	"text.unlock_action.cultist": "%, познать \"Запретные знания\"",
 	
@@ -1390,8 +1391,8 @@
 	
 	"unlock.perk_shadow_hand.trivia": "Как гласят древние свитки:#\"Душа жертвы была запечатана в ее же руке,#дабы осущестивть этот артефакт\"",
 	
-	"unlock.other_wrath.name": "Гнев",
-	"unlock.other_wrath.desc": "???",
+	"unlock.other_wrath.name": "Нагрузка",
+	"unlock.other_wrath.desc": "Похоже, Он в тебе заинтересовался",
 	
 	"unlock.other_elites.name": "Они эволюционируют!",
 	"unlock.other_elites.desc": "Отныне некоторые враги будут иметь улучшения",
