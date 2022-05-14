@@ -376,7 +376,7 @@
 	"perk.name.organic_generator": "Органический генератор",
 	"perk.name.lucky_one": "Везучий",
 	"perk.name.revenge": "Мстительные духи",
-	"perk.name.pyro": "Пироманьяк",
+	"perk.name.pyro": "Пиромания",
 	"perk.name.inner_eye": "Внутренний глаз",
 	"perk.name.magic_purse": "Волшебный кошелек",
 	"perk.name.charisma": "Харизма",
@@ -460,7 +460,7 @@
 	"perk.description.charisma": "50% Скидка в магазине",
 	"perk.description.heavy_blade": "Взмахи увеличатся в размерах",
 	"perk.description.gas": "Враг испускает из себя ядовитое облако,#которое отравляет и наносит урон врагам поблизости",
-	"perk.description.pyro": "Огонь наносит больше урона#Имунитет к горению",
+	"perk.description.pyro": "Огонь наносит больше урона,#Поджигание ослабляет врага",
 	"perk.description.meteor": "Два орбитальных метеора",
 	"perk.description.magic_purse": "Монеты лечат",
 	"perk.description.tumor": "Атаки отравляют врага",
@@ -882,7 +882,7 @@
 	"effect.drunk.text": "Понижение точности.#Отключет выживание на пороге смерти",
 	"effect.pheromone.text": "Ускоряет все действия",
 	"effect.freezed.text": "Удваивает получаемый урон.#Полностью обездвиживает; Не дает игроку атаковать",
-	"effect.weakened.text": "Следующий урон больше 4 едениц будет увеличен на 50%",
+	"effect.weakened.text": "Гарантированный критический удар#при следующем попадании",
 
 	
 	"artifact.name.zero_gravity": "Амулет Нулевой Гравитации",
@@ -1248,6 +1248,7 @@
 	"enemy.ending2.name": "Судьба II",
 	"enemy.player.name": "Несчастный случай",
 	"enemy.skeletonwarrior.name": "Воин",
+	"enemy.null.name": "Нуль",
 	
 	
 	"enemy.tokenbloom.name": "Токеноцвет",
@@ -1374,9 +1375,9 @@
 	
 	"text.unlock_action.ending1": "%, познать \"Судьбу I\"",
 	"text.unlock_action.ending2": "%, познать \"Судьбу II\"",
-	"text.unlock_action.wrath1": "%, достичь Нагрузка x1",
-	"text.unlock_action.wrath3": "%, достичь Нагрузка x3",
-	"text.unlock_action.wrath6": "%, достичь Нагрузка x6",
+	"text.unlock_action.wrath1": "%, достичь Перегрузка x1",
+	"text.unlock_action.wrath3": "%, достичь Перегрузка x3",
+	"text.unlock_action.wrath6": "%, достичь Перегрузка x6",
 	"text.unlock_action.core": "%, расщепиться",
 	"text.unlock_action.cultist": "%, познать \"Запретные знания\"",
 	
@@ -1391,7 +1392,7 @@
 	
 	"unlock.perk_shadow_hand.trivia": "Как гласят древние свитки:#\"Душа жертвы была запечатана в ее же руке,#дабы осущестивть этот артефакт\"",
 	
-	"unlock.other_wrath.name": "Нагрузка",
+	"unlock.other_wrath.name": "Перегрузка",
 	"unlock.other_wrath.desc": "Похоже, Он в тебе заинтересовался",
 	
 	"unlock.other_elites.name": "Они эволюционируют!",
