@@ -1,3 +1,12 @@
 {
-  "trove:cleaver": "battle_axe"
+  "trove:cleaver": "battle_axe",
+  
+  "magnum:flux_sword": "inferno",
+  
+  "cursed_sword:boomerang": "cursed_boomerang",
+  "cursed_kunai:boomerang": "cursed_boomerang",
+  "cursed_kunai:stylet": "cursed_sword",
+  "cursed_boomerang:stylet": "cursed_sword",
+  "cursed_sword:kunai": "cursed_kunai",
+  "cursed_boomerang:kunai": "cursed_kunai"
 }
