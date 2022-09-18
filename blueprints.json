@@ -13,4 +13,7 @@
   "ice_knife:bat": "frozen_bat",
     
   "robot_blade:hammer": "flux_prot",
+  
+  "robot_blade:sword": "flux_infused_sword",
+  "laser_sword:sword": "flux_infused_sword",
 }
