@@ -16,4 +16,6 @@
   
   "robot_blade:sword": "flux_infused_sword",
   "laser_sword:sword": "flux_infused_sword",
+  
+  "flux_infused_sword:flux_infused_sword": "annihilator",
 }
