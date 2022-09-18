@@ -10,5 +10,7 @@
   "cursed_sword:kunai": "cursed_kunai",
   "cursed_boomerang:kunai": "cursed_kunai",
   
-  "ice_knife:bat": "frozen_bat"
+  "ice_knife:bat": "frozen_bat",
+    
+  "robot_blade:hammer": "flux_prot",
 }
