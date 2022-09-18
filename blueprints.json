@@ -1,5 +1,6 @@
 {
   "trove:cleaver": "battle_axe",
+  "ice_knife:axe": "frozen_axe",
   
   "magnum:flux_sword": "inferno",
   
@@ -8,5 +9,7 @@
   "cursed_kunai:stylet": "cursed_sword",
   "cursed_boomerang:stylet": "cursed_sword",
   "cursed_sword:kunai": "cursed_kunai",
-  "cursed_boomerang:kunai": "cursed_kunai"
+  "cursed_boomerang:kunai": "cursed_kunai",
+  
+  "ice_knife:bat": "frozen_bat"
 }
