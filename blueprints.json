@@ -18,4 +18,6 @@
   "laser_sword:sword": "flux_infused_sword",
   
   "flux_infused_sword:flux_infused_sword": "annihilator",
+  
+  "bat:stylet": "lance",
 }
