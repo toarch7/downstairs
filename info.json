@@ -2,7 +2,7 @@
 	"GameBuild": 148,
 	"GameVersion": "update-7",
 	
-	"Changelog": "All changelogs are available in Discord server",
+	"Changelog": "All changelogs are available in game's Discord server",
 	
 	"DailiesEnabled": true,
 	"WebhookDailies": true
