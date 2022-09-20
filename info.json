@@ -4,5 +4,6 @@
 	
 	"Changelog": "All changelogs are available in Discord server",
 	
-	"DailiesEnabled": true
+	"DailiesEnabled": true,
+	"WebhookDailies": true
 }
