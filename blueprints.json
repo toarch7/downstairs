@@ -23,4 +23,8 @@
   
   "broom:poisoned_sword": "brush",
   "broom:ice_knife": "brush",
+
+  "beheader:axe": "battle_axe",
+  "axe:axe": "battle_axe",
+  "beheader:beheader": "battle_axe"
 }
