@@ -26,5 +26,7 @@
 
   "beheader:axe": "battle_axe",
   "axe:axe": "battle_axe",
-  "beheader:beheader": "battle_axe"
+  "beheader:beheader": "battle_axe",
+  
+  "cleaver:lance": "halberd"
 }
