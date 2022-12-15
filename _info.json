@@ -5,5 +5,7 @@
 	"Changelog": "All changelogs are available in game's Discord server",
 	
 	"DailiesEnabled": true,
-	"WebhookDailies": true
+	"WebhookDailies": true,
+	
+	"_comment": "Temporarly disabled due to weird update checker HTTP request header issues"
 }
