@@ -6,5 +6,5 @@
 	
 	"DailiesEnabled": true,
 	"WebhookDailies": true,
-	"DailyMode": 0
+	"DailyMode": 1
 }
